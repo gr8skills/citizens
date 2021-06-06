@@ -2,4 +2,4 @@
 
 - Website: https://vanguardapp.io
 - Documentation: https://milos.support-hub.io
-- Developed by [Milos Stojanovic](https://twitter.com/loshmis)
+- Developed by [Temitope Joseph](https://twitter.com/gr8skills1)
